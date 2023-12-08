@@ -1,0 +1,14 @@
+---
+title: "README"
+output: html_document
+date: "2023-12-07"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## My first Assignment 
+
+I need a file structure for an assignment involving **R** and **Python** scripts, along with **R Markdown** and **Jupyter notebooks**.
+
