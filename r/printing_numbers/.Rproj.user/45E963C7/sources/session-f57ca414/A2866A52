@@ -1,0 +1,27 @@
+{
+    "id": "A2866A52",
+    "path": "~/printing_numbers/numbers.R",
+    "project_path": "numbers.R",
+    "type": "r_source",
+    "hash": "2318530650",
+    "contents": "",
+    "dirty": false,
+    "created": 1702142136386.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "2,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1702142193,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1702142193476,
+    "read_only": false,
+    "read_only_alternatives": []
+}
